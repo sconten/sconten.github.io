@@ -9,7 +9,7 @@
 title: Son Et Lumiere
 email: sean.contenti@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Son et lumiere, sound and light. Shedding light on geophysics geology, and geocomputing.
+  Son et lumiere, sound and light. Shedding light on geophysics geology, and geocomputing. Explorations into rock physics, seismic data analysis, quantitative interpretation, machine learning. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sconten.github.io" # the base hostname & protocol for your site
 twitter_username: sconten
