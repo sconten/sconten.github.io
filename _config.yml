@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Son Et Lumiere
+title: Son et Lumiere
 email: sean.contenti@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Son et lumiere, sound and light. Shedding light on geophysics geology, and geocomputing. Explorations into rock physics, seismic data analysis, quantitative interpretation, machine learning. 
+  Son et lumiere, sound and light. Learning and insight in geophysics geology, and geocomputing. Explorations into rock physics, seismic data analysis, quantitative interpretation, machine learning, and anything else that strikes my fancy. Also, a great song by the inimitable The Mars Volta. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sconten.github.io" # the base hostname & protocol for your site
 twitter_username: sconten
