@@ -16,4 +16,7 @@ twitter_username: sconten
 github_username:  sconten
 
 # Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
+paginate: 1
+comments: true
